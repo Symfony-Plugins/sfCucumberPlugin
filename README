@@ -1,0 +1,9 @@
+converts cucumber feature files to symfony functional tests
+
+requires php >= 5.3 for now (considering lowering that to 5.2)
+
+this is very experimental and I'm not even sure it'll give something usable in
+the end but heh, code has to be funny at times :-)
+
+also, I don't really like the generator implementation right now, it lacks
+context knowledge and needs more flexibility.
